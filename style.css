@@ -1,0 +1,6 @@
+h1{color: rgb(208, 207, 207);font-size: 40px;}
+img{width: 500px;height: auto;}
+div{width: 100%;justify-content: center;display: flex;}
+h2{color: darkorange;}
+.header{background-color: rgb(77, 77, 194);}
+footer{color: rgb(137, 137, 137);width: 100%;justify-content: baseline;display: flex;}
