@@ -1,6 +1,45 @@
+body{
+    margin: 0; 
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
 h1{color: rgb(208, 207, 207);font-size: 40px;}
 img{width: 500px;height: auto;}
 div{width: 100%;justify-content: center;display: flex;}
 h2{color: darkorange;}
-.header{background-color: rgb(77, 77, 194);}
-footer{color: rgb(137, 137, 137);width: 100%;justify-content: baseline;display: flex;}
+.header{
+    background-color: rgb(77, 77, 194);
+    margin-bottom: 20px;
+}
+
+.desplazada{
+    position: relative;
+    width: 100%;
+    text-align: justify;
+    top: 3em;
+    right: 18em;
+    padding-bottom: 80px;
+}
+
+h3{width: 100%;justify-content: center;display: flex;}
+
+
+
+
+
+
+
+footer{
+    position: absolute; f
+    bottom: 0;
+    left: 0;
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(137, 137, 137);
+    width: 100%;
+}
+
+
+
+
+
