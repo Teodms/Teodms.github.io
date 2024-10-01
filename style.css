@@ -4,7 +4,6 @@ body{
 }
 
 h1{color: rgb(208, 207, 207);font-size: 40px;}
-img{width: 500px;height: auto;}
 div{width: 100%;justify-content: center;display: flex;}
 h2{color: darkorange;}
 .header{
