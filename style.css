@@ -21,6 +21,8 @@ h2{color: darkorange;}
     padding-bottom: 80px;
 }
 
+.imagen1{display: block; justify-content: center; padding-top: 20px;}
+
 h3{width: 100%;justify-content: center;display: flex;}
 
 
